@@ -1,4 +1,4 @@
-# CS300 ABCU program
+# CS300 ABCU Academic Advising Tool
 
 What was the problem you were solving in the projects for this course?
 
